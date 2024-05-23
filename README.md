@@ -1,9 +1,9 @@
 ### Hi there, I'm Renato Dias 😁👋
 
 
-- 🔭 I’m currently working on Python back end
-- 🌱 I’m currently learning Data Science 
-- 💬 Ask me about logical problems, envolving C language, since I'm studying it in college LOL
+- 🔭 I’m currently working on PowerBI 
+- 🌱 I’m learning Data Science usign Pandas and SQL
+- 💬 Ask me about logical problems envolving C/C++ or Python. Love it
 - 😄 Pronouns: He/Him
 
 <div style="display: inline_block"><br>
