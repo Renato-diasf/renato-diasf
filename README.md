@@ -16,21 +16,6 @@ Welcome to my GitHub profile! I am a Data Science enthusiast with a strong focus
 - **SQL**: Skilled in querying and manipulating databases using SQL.
 - **Collaboration & Teamwork**: Strong team player with experience working on collaborative projects in an academic setting.
 
-## Projects
-
-Here are some of the projects I have worked on:
-
-1. **PNAD 2015 Data Analysis**: A descriptive analysis of the 2015 National Household Sample Survey (PNAD) data, focusing on income, education, and demographic variables. [Link to Project](#)
-2. **Predictive Modeling**: Development of predictive models using Machine Learning techniques to forecast outcomes based on historical data. [Link to Project](#)
-3. **Data Visualization with Power BI**: Creation of interactive dashboards to visualize key insights from complex datasets. [Link to Project](#)
-
-## Tools & Technologies
-
-- **Programming Languages**: Python, SQL
-- **Data Analysis & Visualization**: Pandas, Power BI, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
-- **Version Control**: Git, GitHub
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
