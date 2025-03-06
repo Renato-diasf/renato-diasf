@@ -1,10 +1,36 @@
-### Hi there, I'm Renato Dias 😁👋
+# Data Science Enthusiast | Machine Learning & AI
 
+Welcome to my GitHub profile! I am a Data Science enthusiast with a strong focus on Machine Learning and Artificial Intelligence. Currently, I am part of **PANDAs**, an extension group at the Federal University of São Carlos (UFSCar) dedicated to the study and application of advanced techniques in Data Science. In this group, I have the opportunity to explore various tools and methodologies, such as **Power BI**, **Python**, **Pandas**, and **Machine Learning techniques**, while participating in practical projects involving data analysis and visualization.
 
-- 🔭 I’m currently working on PowerBI 
-- 🌱 I’m learning Data Science usign Pandas and SQL
-- 💬 Ask me about logical problems envolving C++ or Python. Love it
-- 😄 Pronouns: He/Him
+## About Me
+
+- **Data Science Enthusiast**: Passionate about leveraging data to solve real-world problems and create intelligent solutions.
+- **Machine Learning & AI**: Focused on developing and implementing predictive models to drive data-driven decision-making.
+- **PANDAs Group Member**: Actively involved in projects that apply advanced data science techniques to real-world datasets.
+- **Continuous Learner**: Always seeking new challenges and opportunities to expand my knowledge and skills in Data Science.
+
+## Skills & Expertise
+
+- **Data Analysis & Visualization**: Proficient in using **Python**, **Pandas**, and **Power BI** for data manipulation, analysis, and visualization.
+- **Machine Learning**: Experienced in developing and deploying predictive models using various Machine Learning algorithms.
+- **SQL**: Skilled in querying and manipulating databases using SQL.
+- **Collaboration & Teamwork**: Strong team player with experience working on collaborative projects in an academic setting.
+
+## Projects
+
+Here are some of the projects I have worked on:
+
+1. **PNAD 2015 Data Analysis**: A descriptive analysis of the 2015 National Household Sample Survey (PNAD) data, focusing on income, education, and demographic variables. [Link to Project](#)
+2. **Predictive Modeling**: Development of predictive models using Machine Learning techniques to forecast outcomes based on historical data. [Link to Project](#)
+3. **Data Visualization with Power BI**: Creation of interactive dashboards to visualize key insights from complex datasets. [Link to Project](#)
+
+## Tools & Technologies
+
+- **Programming Languages**: Python, SQL
+- **Data Analysis & Visualization**: Pandas, Power BI, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Version Control**: Git, GitHub
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
